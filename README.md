@@ -1,2 +1,2 @@
 # learning-git
- This is my first practice Git repository.
+This repository was created to practice Git and GitHub basics.
